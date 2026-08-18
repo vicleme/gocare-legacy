@@ -15,12 +15,12 @@ GoCare was built on research with over 180 responses about the challenges people
 
 ## Team
 
-| Name | Main focus |
-|---|---|
-| Milena Audrey Nobrega Marciano | Research, survey, proposal |
-| Milena Camargo Reis | Introduction, literature review |
-| Sávio Gabriel Santos Gois | Architecture, prototyping, interface, testing |
-| Victor Gabriel Leme da Silva | Brand identity, analysis, project management |
+This was a group capstone project, developed collaboratively across research, design, and development:
+
+- Milena Audrey Nobrega Marciano
+- Milena Camargo Reis
+- Sávio Gabriel Santos Gois
+- Victor Gabriel Leme da Silva
 
 Advisor: Prof. Adélia da Silva Saraiva · Co-advisor: Prof. Renata Neves Ferreira
 
