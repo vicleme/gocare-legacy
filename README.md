@@ -1,5 +1,7 @@
 # GoCare
 
+*[Leia isso em português](README.pt-br.md)*
+
 Web platform for specialized, accessible transportation for people with disabilities and other groups with specific mobility needs. Capstone project (TCC) — Systems Analysis & Development, Fatec Praia Grande, 2021.
 
 ---
@@ -63,4 +65,4 @@ This repository preserves the project as it was submitted as a 2021 capstone the
 
 ## Full documentation
 
-The complete capstone report — literature review, requirements, UML diagrams, project management artifacts, and testing — is available [here](https://drive.google.com/file/d/123Lg4Eu0DlMsS67j_n8lPMgFuq1o2_Ay/view?usp=sharing).
+The complete capstone report — literature review, requirements, UML diagrams, project management artifacts, and testing — is available in Brazilian Portuguese [here](https://drive.google.com/file/d/123Lg4Eu0DlMsS67j_n8lPMgFuq1o2_Ay/view?usp=sharing).
