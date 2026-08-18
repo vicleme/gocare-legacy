@@ -1,7 +1,44 @@
-# FPG.ADS.ProjLES.2021.1
-🇧🇷 pt-br: Modelo de aplicação web de captação de serviços de transporte especializado para pessoas com necessidades específicas, como pessoas com deficiência. Projeto de Laboratório de Engenharia de Software, disciplina do curso de ADS da Fatec PG.
+# GoCare
 
-🇺🇸 en-us: Web application focused on a specialized transport services platform for people with specific needs, such as people with disabilities. Software Engineering Laboratory Project, subject of the Systems Analysis and Development course at the Technology College (Fatec) in Praia Grande.
+Web platform for specialized, accessible transportation for people with disabilities and other groups with specific mobility needs. Capstone project (TCC) — Systems Analysis & Development, Fatec Praia Grande, 2021.
+
+---
+
+## About the project
+
+GoCare was built on research with over 180 responses about the challenges people with disabilities face when using ride-hailing apps — driver refusals, lack of adapted vehicles, and discrimination. The proposal is a platform connecting trained drivers with passengers who have specific needs, including registration, ride scheduling, and mutual rating.
+
+**Key research findings:**
+- 73.2% of respondents are or personally know a person with a disability
+- 69.4% had experienced or knew someone who experienced transportation-related problems
+- 131 suggestions were collected to guide product development
+
+## Team
+
+| Name | Main focus |
+|---|---|
+| Milena Audrey Nobrega Marciano | Research, survey, proposal |
+| Milena Camargo Reis | Introduction, literature review |
+| Sávio Gabriel Santos Gois | Architecture, prototyping, interface, testing |
+| Victor Gabriel Leme da Silva | Brand identity, analysis, project management |
+
+Advisor: Prof. Adélia da Silva Saraiva · Co-advisor: Prof. Renata Neves Ferreira
+
+## Brand identity
+
+- **Name:** GoCare — "Go" + "Care", with "Car" embedded within "Care"
+- **Slogan:** *TakeCare. WeCare. GoCare.*
+- **Symbol:** a steering wheel merged with the International Symbol of Accessibility (UN, 2015)
+- **Color palette:** tested for contrast under low vision and various forms of color blindness
+
+## Tech stack
+
+- **Front-end:** HTML5, CSS3, JavaScript, Bootstrap
+- **Back-end:** PHP 7 (mysqli)
+- **Database:** MySQL
+- **Original hosting:** 000webhost (no longer live; free hosting of this kind isn't maintained long-term)
+
+## Screenshots
 
 ![GoCareGit2](https://github.com/vicleme/FPG.ADS.ProjLES.2021.1/assets/51094363/3ba7061f-4581-444c-abee-fc2ed323d508)
 ![GoCareGit3](https://github.com/vicleme/FPG.ADS.ProjLES.2021.1/assets/51094363/087718c2-1f11-467f-bcd8-3e1d29444553)
@@ -15,3 +52,15 @@
 ![GoCareGit11](https://github.com/vicleme/FPG.ADS.ProjLES.2021.1/assets/51094363/afcc41a7-94f0-4539-be7a-261fb79f24c8)
 ![GoCareGit12](https://github.com/vicleme/FPG.ADS.ProjLES.2021.1/assets/51094363/6e4a33a1-f029-43c3-93bb-e9f0bc668cc3)
 ![GoCareGit13](https://github.com/vicleme/FPG.ADS.ProjLES.2021.1/assets/51094363/b61cf0e3-ab0f-4def-9fdf-a472b9a6153a)
+
+## Implemented scope
+
+Driver and passenger registration and authentication, ride scheduling/cancellation/rating, profile editing and deactivation/deletion. The **Notifications page was designed but not implemented** — it was scoped as a future feature to alert users about ride changes.
+
+## Status
+
+This repository preserves the project as it was submitted as a 2021 capstone thesis — it is not under active development. A browsable portfolio version, without a backend/database dependency, is being built separately.
+
+## Full documentation
+
+The complete capstone report — literature review, requirements, UML diagrams, project management artifacts, and testing — is available [here](https://drive.google.com/file/d/123Lg4Eu0DlMsS67j_n8lPMgFuq1o2_Ay/view?usp=sharing).
